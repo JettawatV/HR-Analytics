@@ -6,7 +6,7 @@ In our machine learning project, we aim to develop a predictive model for employ
 The market for machine learning solutions in HR analytics and employee retention is substantial, with businesses across various industries seeking efficient ways to manage their workforce and minimize turnover. According to industry reports, the global market for HR analytics solutions is projected to reach $3.6 billion by 2025, driven by the increasing adoption of data-driven HR strategies (MarketsandMarkets, 2020).
 
 ## About the Dataset
-The dataset consists of 15,000 samples and includes various attributes related to employee characteristics and work-related factors. Each sample represents an individual employee within an organization.
+The dataset consists of 14,999samples and includes various attributes related to employee characteristics and work-related factors. Each sample represents an individual employee within an organization.
 
 • Satisfaction: Level of satisfaction reported by employees.
 
